@@ -1,6 +1,6 @@
 # bem-flex
 
-bem-flex is a simple flex helper CSS with [BEM](https://css-tricks.com/bem-101/) fashion.
+bem-flex is a simple flex helper SASS with [BEM](https://css-tricks.com/bem-101/) fashion.
 
 For now, only SASS is supported.
 

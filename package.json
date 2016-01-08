@@ -1,0 +1,24 @@
+{
+  "name": "bem-flex",
+  "version": "1.0.0",
+  "description": "A simple flex helper SASS with BEM fashion",
+  "keywords": [
+    "sass",
+    "flex",
+    "bem",
+    "css"
+  ],
+  "main": "_main.scss",
+  "author": "Ryan Rho <i@raynrho.com>",
+  "bugs": {
+    "url": "https://github.com/rhobot/bem-flex/issues",
+    "email": "i@ryanrho.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rhobot/bem-flex.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
