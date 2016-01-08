@@ -1,6 +1,6 @@
 {
   "name": "bem-flex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple flex helper SASS with BEM fashion",
   "keywords": [
     "sass",
