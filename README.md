@@ -15,7 +15,7 @@ For now, only SASS is supported.
 2. Add the SCSS file in your project's SCSS file, etc.
 
   ```scss
-  @import 'node_modules/bem-flex/main';
+  @import "node_modules/bem-flex/main";
   ```
 
 ## Usage
