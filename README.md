@@ -1,6 +1,6 @@
 # bem-flex
 
-bem-flex is a simple flex helper SASS with [BEM](https://css-tricks.com/bem-101/) fashion.
+A simple flex helper SASS with [BEM](https://css-tricks.com/bem-101/) fashion.
 
 For now, only SASS is supported.
 
@@ -18,7 +18,7 @@ For now, only SASS is supported.
   @import "node_modules/bem-flex/main";
   ```
 
-## Usage
+## Example
 
 ```html
 <div class="display--flex">     <!-- display: flex -->
@@ -29,6 +29,25 @@ For now, only SASS is supported.
     Click me
   </button>
 </div>
+```
+
+## API
+
+```
+.display--flex
+.flex--center
+.flex--end
+.flex--column
+
+.flex-wrap--nowrap
+.flex-wrap--wrap
+.flex-wrap--wrap-reverse
+
+.flex--one
+.flex--two
+...
+.flex--eleven
+.flex--twelve
 ```
 
 ## License
