@@ -1,3 +1,6 @@
+@import "flex-wrap";
+@import "flex-size";
+
 .display--flex {
   display: flex;
 }
@@ -12,52 +15,4 @@
 
 .flex--column {
   flex-direction: column;
-}
-
-.flex--one {
-  flex: 1;
-}
-
-.flex--two {
-  flex: 2;
-}
-
-.flex--three {
-  flex: 3;
-}
-
-.flex--four {
-  flex: 4;
-}
-
-.flex--five {
-  flex: 5;
-}
-
-.flex--six {
-  flex:6;
-}
-
-.flex--seven {
-  flex: 7;
-}
-
-.flex--eight {
-  flex: 8;
-}
-
-.flex--nine {
-  flex: 9;
-}
-
-.flex--ten {
-  flex: 10;
-}
-
-.flex--eleven {
-  flex: 11;
-}
-
-.flex--twelve {
-  flex: 12;
 }
